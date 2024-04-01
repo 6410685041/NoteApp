@@ -24,12 +24,20 @@ Student ID: 6410685041
 ### Screen Shot
 
 - Login
+  
+![Login_Screen](Image/NoteApp_Login.png)
 
 - Register
 
+![Register_Screen](Image/NoteApp_Register.png)
+
 - Note
 
+![Note_Screen](Image/NoteApp_Note.png)
+
 - Profile
+
+![Profile_Screen](Image/NoteApp_Profile.png)
 
 ### Video
 
